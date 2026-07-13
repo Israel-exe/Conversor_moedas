@@ -10,3 +10,4 @@ Projeto desenvolvido para a disciplina Ferramentas de desenvolvimento e versiona
 * **v1.0.0:** Versão funcional do conversor (cálculos e lógica), sem foco em estética (HTML puro / JS básico).
 * **v2.0.0:** Versão final com estética elaborada (adicionado CSS, design responsivo e melhorias de UI/UX).
 * **v2.0.1:** Hotfix de Interface Correção de bug de layout (inclusão da div container ausente).
+
