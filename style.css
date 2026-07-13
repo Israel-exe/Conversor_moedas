@@ -1,0 +1,33 @@
+* { 
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0; 
+}
+
+/* ESTILO DO CORPO DA PÁGINA */
+body { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    min-height: 100vh; 
+    color: #333; 
+}
+
+/* CAIXA PRINCIPAL (CARD) */
+.container { 
+    background-color: #ffffff; 
+    padding: 2.5rem 2rem; 
+    border-radius: 16px; 
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2); 
+    width: 100%; 
+    max-width: 420px; 
+}
+
+h1 { 
+    text-align: center; 
+    font-size: 1.6rem; 
+    margin-bottom: 2rem; 
+    color: #2d3748; 
+}
